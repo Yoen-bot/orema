@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       Gérer votre compteur, sans vous déplacer. C'est facile, c'est rapide,
       c'est faisable avec Orema.
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
