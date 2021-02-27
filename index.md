@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: Orema Technology
-  description: The preview of the Starter theme
+  description: Orema est une startup technologique.
   extra:
     - name: 'og:type'
       value: website
