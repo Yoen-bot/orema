@@ -20,7 +20,7 @@ header:
     - label: Nous contacter
       url: /style-guide
       style: link
-    - label: Contact Us
+    - label: Tester Orema
       url: /contact
       style: primary
 footer:
