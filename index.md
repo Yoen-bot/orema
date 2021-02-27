@@ -2,7 +2,7 @@
 title: Accueil
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: 'Orema, une solution intelligente enfin penser pour vous !'
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
