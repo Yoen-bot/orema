@@ -22,10 +22,11 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          **Orema Technology** propose un boîtier qui permet aux sociétés de
+          fourniture d'énergie de rendre les compteurs d'électricité
+          intelligents, en facilitant la gestion des interventions à distance
+          grâce à une plateforme web et mobile connecté.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
