@@ -7,9 +7,6 @@ sections:
       Gérer votre compteur, sans vous déplacer. C'est facile, c'est rapide,
       c'est faisable avec Orema.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
