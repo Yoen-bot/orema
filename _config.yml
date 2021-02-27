@@ -17,7 +17,7 @@ header:
     - label: Actualités
       url: /about
       style: link
-    - label: Style Guide
+    - label: Nous contacter
       url: /style-guide
       style: link
     - label: Contact Us
