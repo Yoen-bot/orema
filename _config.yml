@@ -71,4 +71,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://orema-9fcad.netlify.app'
+domain: 'https://orema.netlify.app'
