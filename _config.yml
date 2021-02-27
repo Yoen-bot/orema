@@ -14,7 +14,7 @@ header:
     - label: Notre solution
       url: /blog
       style: link
-    - label: About
+    - label: Actualités
       url: /about
       style: link
     - label: Style Guide
