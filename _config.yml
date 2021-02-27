@@ -8,7 +8,7 @@ header:
   title: Starter
   has_nav: true
   nav_links:
-    - label: Features
+    - label: Accueil
       url: /features
       style: link
     - label: Blog
